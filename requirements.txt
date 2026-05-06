@@ -1,8 +1,8 @@
 streamlit==1.45.1
-torch
-torchvision
+torch==2.7.0
+torchvision==0.22.0
 opencv-python-headless==4.10.0.84
-numpy
-pillow
-scikit-learn
-grad-cam
+numpy==2.2.5
+pillow==11.2.1
+scikit-learn==1.6.1
+grad-cam==1.5.5
